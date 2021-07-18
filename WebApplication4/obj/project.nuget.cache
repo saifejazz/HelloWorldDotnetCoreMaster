@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iw+cSBmM2aBIlN2pWLyf14+ptWna9CWIGM6Dk9LoMoAwf4Ovyhnwj8hgIk3C9xMsTFDeIPbAgjZiL2R2IrKh1w==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Nagp\\Sessions Taken\\1. DevOps and Advanced Microservices\\Meeting Outcomes\\Final Content\\Assignment\\Initial\\Hello-World-DotNetCore-master\\WebApplication4\\WebApplication4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajivgogia\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.9.5\\microsoft.visualstudio.azure.containers.tools.targets.1.9.5.nupkg.sha512"
+  ],
+  "logs": []
+}
